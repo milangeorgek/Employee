@@ -11,6 +11,7 @@ Installation: 1)To run this you need to have or install
 			    -> Apache 2.2.21
 			    -> PHP 5.3.10
 			    -> MySQL 5.5.20
+			    
 			  2)After successfull installation just download and 
 			    copy the folder 'NewEmpWebsite' and paste it in your
 			    folder where PHP is installed.
